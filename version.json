@@ -1,6 +1,6 @@
 {
   "version": "2.0.2",
-  "release_date": "2026-07-18 18:42:29",
+  "release_date": "2026-07-18 18:52:28",
   "notes": "",
   "files": [
     {
@@ -29,9 +29,9 @@
     },
     {
       "path": "version.json",
-      "md5": "76698af09534311cf86dd1ac783761b4",
-      "size": 722492,
-      "modified": "2026-07-18 18:28:26"
+      "md5": "ac3c2edd2ad3dc428370c1a20211e371",
+      "size": 722625,
+      "modified": "2026-07-18 18:42:29"
     },
     {
       "path": "梦幻西游多开助手.exe",
