@@ -1,6 +1,6 @@
 {
-  "version": "2.0.7",
-  "release_date": "2026-07-18 20:34:50",
+  "version": "2.0.8",
+  "release_date": "2026-07-18 20:52:33",
   "notes": "",
   "files": [
     {
@@ -17,9 +17,9 @@
     },
     {
       "path": "my.ini",
-      "md5": "4aedf7696e331afb06408f96ad4d8042",
-      "size": 17221,
-      "modified": "2026-07-18 20:28:40"
+      "md5": "adaeee230ac02aad649af1c02389802c",
+      "size": 17235,
+      "modified": "2026-07-18 20:48:21"
     },
     {
       "path": "reg_bak.ini",
@@ -29,9 +29,9 @@
     },
     {
       "path": "梦幻西游多开助手.exe",
-      "md5": "73dd6b998f06695ce905c427ff863b2c",
-      "size": 20397685,
-      "modified": "2026-07-18 20:30:31"
+      "md5": "c1f9484944815ec1e3631a49fa921e04",
+      "size": 20397135,
+      "modified": "2026-07-18 20:50:14"
     },
     {
       "path": "image/bj.png",
