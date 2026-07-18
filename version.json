@@ -1,7 +1,7 @@
 {
   "version": "2.0.9",
-  "release_date": "2026-07-18 22:45:07",
-  "notes": "",
+  "release_date": "2026-07-18 22:48:55",
+  "notes": "修复自动更新的BUG",
   "files": [
     {
       "path": "icon.ico",
@@ -26,12 +26,6 @@
       "md5": "51f6bd290d93fccf07e6c233bf987f02",
       "size": 3386,
       "modified": "2026-07-07 09:07:53"
-    },
-    {
-      "path": "version.json",
-      "md5": "61d52592326b405aafe1e323ca3d71e0",
-      "size": 722465,
-      "modified": "2026-07-18 20:52:33"
     },
     {
       "path": "梦幻西游多开助手.exe",
