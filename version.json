@@ -1,7 +1,7 @@
 {
-  "version": "2.0.9",
-  "release_date": "2026-07-18 22:48:55",
-  "notes": "修复自动更新的BUG",
+  "version": "2.1.0",
+  "release_date": "2026-07-21 14:42:50",
+  "notes": "",
   "files": [
     {
       "path": "icon.ico",
@@ -17,9 +17,9 @@
     },
     {
       "path": "my.ini",
-      "md5": "3d1eb47754708067cf8e47ee34ed6f6d",
-      "size": 17235,
-      "modified": "2026-07-18 22:41:14"
+      "md5": "a636a07747b750dca08c8d7e5aae9d98",
+      "size": 17241,
+      "modified": "2026-07-21 14:38:50"
     },
     {
       "path": "reg_bak.ini",
@@ -29,9 +29,9 @@
     },
     {
       "path": "梦幻西游多开助手.exe",
-      "md5": "2e2463169ed62d541cc040fab0c0c802",
-      "size": 20399508,
-      "modified": "2026-07-18 22:27:31"
+      "md5": "39926162d78012f6bc47046f84e25c85",
+      "size": 20400342,
+      "modified": "2026-07-21 14:40:50"
     },
     {
       "path": "image/bj.png",
